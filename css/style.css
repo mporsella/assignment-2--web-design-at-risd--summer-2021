@@ -11,6 +11,11 @@ body {
   margin-right: 40px;
 }
 
+.caption {
+  text-align: center;
+
+}
+
 h1 {
   font-family: 'Della Respira', serif;
   font-size: 48px
