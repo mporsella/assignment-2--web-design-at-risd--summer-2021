@@ -1,7 +1,18 @@
 blockquote {
 
   background-color: #EBF2ED;
+  border: 4px solid #728C78;
   text-align: center;
+
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+
+  margin-top: 60px;
+  margin-bottom: 60px;
+
+
 }
 
 body {
@@ -10,11 +21,12 @@ body {
 
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 18px;
+  line-height: 1.5;
 
   margin-top: 20px;
+  margin-right: 40px;
   margin-bottom: 80px;
   margin-left: 40px;
-  margin-right: 40px;
 }
 
 .caption {
@@ -23,11 +35,14 @@ body {
 }
 
 div {
+  padding-left: 100px
 
 }
 
 div.container {
       display:inline-block;
+      text-align: center;
+
     }
 
 h1 {
