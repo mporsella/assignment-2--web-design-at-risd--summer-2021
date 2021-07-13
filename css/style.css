@@ -16,6 +16,14 @@ body {
 
 }
 
+div {
+
+}
+
+div.container {
+      display:inline-block;
+    }
+
 h1 {
   font-family: 'Della Respira', serif;
   font-size: 48px;
