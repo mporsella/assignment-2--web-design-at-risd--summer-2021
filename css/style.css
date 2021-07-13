@@ -1,6 +1,9 @@
-body {
+blockquote {
 
   background-color: #EBF2ED;
+  text-align: center;
+}
+
 
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 18px;
